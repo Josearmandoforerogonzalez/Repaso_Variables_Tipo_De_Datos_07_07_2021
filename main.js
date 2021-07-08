@@ -6,7 +6,7 @@ alert("suma, resta, multiplicacion y division y presiona f12 para ver la consola
 "multiplicaion"
 numUno = 15
 numDos = 15
-resultado = numUno * numDos
+resultadoSuma = numUno * numDos
 
 "division"
 numUno = 10
@@ -19,7 +19,10 @@ numUno = 50
 numDos = 29
 resultadoDeLaResta = numUno - numDos
 
-
+console.log(resultado)
+console.log(resultadoSuma)
+console.log(resultadoDeLaDivision)
+console.log(resultadoDeLaResta)
 
 nombreCompletoDelProfesor = `i´m Bender Rodriguez`;
 edad = 21;
