@@ -14,7 +14,7 @@ numDos = 2
 resultadoDeLaDivision = numUno / numDos
 
 
-"resta"
+
 numUno = 50
 numDos = 29
 resultadoDeLaResta = numUno - numDos
